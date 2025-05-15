@@ -29,13 +29,13 @@ _Aqui você pode adicionar prints da interface, dashboard em tempo real e do har
 
 git clone https://github.com/Fernando8312/Projeto_Integrador_V.git
 
-Acesse a pasta Projeto_Integrador_V
+- Acesse a pasta Projeto_Integrador_V
 
-crie um ambiente virtual Python:
+- crie um ambiente virtual Python:
 
-- python -m venv venv
+python -m venv venv
 
-Acesse o ambiente virtual:
+- Acesse o ambiente virtual:
 
 source ./venv/bin/activate
 
