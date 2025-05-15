@@ -37,9 +37,9 @@ crie um ambiente virtual Python:
 
 Acesse o ambiente virtual:
 
-- source ./venv/bin/activate
+source ./venv/bin/activate
 
-instale os requirements:
+- instale os requirements:
 
 pip install - r requirements.txt
 
