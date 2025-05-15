@@ -45,10 +45,8 @@ python manage.py runserver 0.0.0.0:8000
 
 - acessar no navegador
 
-http://localhost:8000/dashboard/
+'http://localhost:8000/dashboard/'
 
 ## 📂 Estrutura do Projeto
-- `/backend`: aplicação Django
-- `/frontend`: interface web estática
-- `/hardware`: código do ESP32 e esquemas
-- `/docs`: relatórios e documentação técnica
+- `/cold_chamber`: aplicação Django
+- `/Leitor_RFID`: código do ESP32 e esquemas
