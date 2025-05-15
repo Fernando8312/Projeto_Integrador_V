@@ -57,6 +57,8 @@ python manage.py runserver 0.0.0.0:8000
 
 'http://localhost:8000/dashboard/'
 
+Para gravar o programa no ESP32 use o Arduino IDE.
+
 ## 📂 Estrutura do Projeto
 - `/cold_chamber`: aplicação Django
 - `/Leitor_RFID`: código do ESP32 e esquemas
