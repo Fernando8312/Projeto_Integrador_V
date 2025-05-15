@@ -29,6 +29,16 @@ _Aqui você pode adicionar prints da interface, dashboard em tempo real e do har
 
 git clone https://github.com/Fernando8312/Projeto_Integrador_V.git
 
+Acesse a pasta Projeto_Integrador_V
+
+crie um ambiente virtual Python:
+
+- python -m venv venv
+
+Acesse o ambiente virtual:
+
+- source ./venv/bin/activate
+
 - instale os requirements:
 
 pip install - r requirements.txt
@@ -43,7 +53,7 @@ python manage.py migrate
 
 python manage.py runserver 0.0.0.0:8000
 
-- acessar no navegador
+- acessar no navegador:
 
 'http://localhost:8000/dashboard/'
 
