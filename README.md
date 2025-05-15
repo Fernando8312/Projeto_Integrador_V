@@ -22,7 +22,7 @@ Projeto Integrador da UNIVESP que une ESP32, Django e tecnologias web para contr
 - Fácil adaptação para outros ambientes industriais
 
 ## 📸 Imagens do Sistema
-_Aqui você pode adicionar prints da interface, dashboard em tempo real e do hardware montado._
+![Projeto Integrador V](https://github.com/Fernando8312/projeto_integrador_V/blob/main/Telas/prototipo.gif)
 
 ## Para rodar o servidor Django
 - clonar o repositorio:
